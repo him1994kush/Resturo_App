@@ -54,7 +54,7 @@ function Navbar() {
             : "hidden  md:flex"
         }`}
       >
-        <ul className="font-bold text-2xl px-8 w-full lg:w-4/12 text-white flex md:flex-row flex-col gap-y-6 pl-6 justify-between mx-auto py-4 font-primary">
+        <ul className="font-bold text-2xl px-8 w-full lg:w-7/12 text-white flex md:flex-row flex-col gap-y-6 pl-6 justify-between mx-auto py-4 font-primary">
           <li className="hover:text-offWhite text-brown">
             <a href="/">All</a>
           </li>
